@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-u9iefa.alexistogel68ds.cyou/sitemap.xml
